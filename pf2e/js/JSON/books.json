@@ -3,12 +3,20 @@
 		"APG",
     		"CRB",
 		"G&G",
+		"LOAG",
+		"LOCG",
+		"LOGM",
+		"LOWG",
     		"SoM"
 	],
 	"bookNames": {
     		"APG": "Advanced Player's Guide",
 		"CRB": "Core Rulebook",
 		"G&G": "Guns & Gears",
+		"LOAG": "Lost Omens Ancestry Guide"
+		"LOCG": "Lost Omens Character Guide",
+		"LOGM": "Lost Omens Gods & Magic",
+		"LOWG": "Lost Omens World Guide",
     		"SoM": "Secrets of Magic"
 	}
 }

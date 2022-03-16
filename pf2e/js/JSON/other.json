@@ -1,0 +1,23 @@
+{
+	"genders": [
+		"Male",
+		"Male",
+		"Male",
+		"Male",
+		"Male",
+		"Female",
+		"Female",
+		"Female",
+		"Female",
+		"Female",
+		"Nonbinary or Unknown"
+	],
+	"raceWeights": {
+		"Dwarf": 6,
+		"Elf": 6,
+		"Gnome": 6,
+    "Goblin": 6,
+		"Halfling": 6,
+		"Human": 31,
+	},
+}

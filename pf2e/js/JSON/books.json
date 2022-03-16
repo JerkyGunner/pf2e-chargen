@@ -1,0 +1,14 @@
+{
+	"availableBooks": [
+		"APG",
+    "CRB",
+		"G&G",
+    "SoM"
+	],
+	"bookNames": {
+    "APG": "Advanced Player's Guide,
+		"CRB": "Core Rulebook",
+		"G&G": "Guns & Gears",
+    "SoM": "Secrets of Magic"
+	}
+}
